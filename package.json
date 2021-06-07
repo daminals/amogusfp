@@ -1,0 +1,39 @@
+{
+  "name": "amogus",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.9.1",
+    "npm": "6.14.8"
+  },
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Daniel Kogan",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "jquery": "^3.5.1",
+    "nodemon": "^2.0.6",
+    "semantic-ui-css": "^2.4.1",
+    "vanilla-router": "^1.2.8"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daminals/amogusfp.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daminals/amogusfp/issues"
+  },
+  "homepage": "https://github.com/daminals/amogusfp#readme",
+  "description": ""
+}
